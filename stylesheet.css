@@ -1,0 +1,72 @@
+img {
+    margin:auto;
+}
+#knopje {
+    height:250px;
+    margin:auto;
+    float:left;
+}
+#knopjetekst {
+    float:left;
+}
+#controllertekst {
+    float:right;
+}
+#controller {
+    height:250px;
+    margin:auto;
+    float:right;
+}
+p {
+    color:white;
+    font-family:Verdana;
+}
+a {
+    color:white;
+    background-color:black;
+    border-radius:5px;
+    text-decoration:none;
+}
+h2,h4 {
+    color:white;
+    font-family:Verdana;
+    text-align:center;
+}
+li {
+    color:white;
+    font-family:Verdana;
+    text-align:left;
+}
+body {
+    background-color:black;  
+    color:white
+    font-family:Verdana;
+}
+#top {
+    background-color:red;
+    z-index:1;
+    height:100px;
+    margin:5px;
+    border-radius:10px;
+    text-align:center;
+    z-index:1;
+}
+#left {
+    background-color:red;
+    height:700px;
+    width:100px;
+    float:left;
+    margin:5px;
+    border-radius:10px;
+}
+#right {
+    background-color:red;
+    height:700px;
+    width:100px;
+    float:right;
+    margin:5px;
+    border-radius:10px;  
+}
+
+    
+    
